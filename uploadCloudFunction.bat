@@ -1,0 +1,1 @@
+"G:\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-4gzn1r5d91ca36e0 --n quickstartFunctions --r --project "E:\Web\WX\tesla-for-fun" --report_first --report
